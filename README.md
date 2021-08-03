@@ -2,7 +2,7 @@
 
 안녕하세요 방가방가
 NO.164 
-
+![image]({https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white})
 [![YaboouUng's GitHub stats](https://github-readme-stats.vercel.app/api?username=yabooung)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -19,4 +19,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://github.com/alexandresanlim/Badges4-README.md-Profile
+https://github.com/anuraghazra/github-readme-stats
 -->
