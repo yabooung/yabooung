@@ -1,25 +1,5 @@
-### Hi there 👋
+Korean & Japanese statutory law · Korean Sign Language
 
-안녕하세요 방가방가
-NO.164 
-![image](https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white)
-[![YaboouUng's GitHub stats](https://github-readme-stats.vercel.app/api?username=yabooung)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-**yabooung/yabooung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-https://github.com/alexandresanlim/Badges4-README.md-Profile
-https://github.com/anuraghazra/github-readme-stats
--->
+- Every Japanese statute in force as a citation graph — 8,998 laws, 1.42M citations · `pip install jlawcite`
+- Dead cross-references in Korean statutes · `pip install lawdangle-kr`
+- Building legal RAG in production; researching why sign language translation gets numbers wrong
